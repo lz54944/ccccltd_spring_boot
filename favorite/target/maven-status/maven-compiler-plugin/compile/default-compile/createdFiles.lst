@@ -1,0 +1,5 @@
+cn\ccccltd\controllers\FavoriteController.class
+cn\ccccltd\daos\FavoriteDao.class
+cn\ccccltd\services\FavoriteService.class
+cn\ccccltd\beans\Favorite.class
+cn\ccccltd\FavoriteModule.class

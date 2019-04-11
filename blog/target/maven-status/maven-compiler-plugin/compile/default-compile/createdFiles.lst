@@ -1,0 +1,7 @@
+cn\ccccltd\beans\Blog.class
+cn\ccccltd\services\BlogService.class
+cn\ccccltd\impaladaos\ImpalaBlogDao.class
+cn\ccccltd\daos\BlogDao.class
+cn\ccccltd\impalabeans\ImpalaBlog.class
+cn\ccccltd\BlogModule.class
+cn\ccccltd\controllers\BlogController.class
